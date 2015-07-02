@@ -1,0 +1,11 @@
+president
+chief-of-staff
+vice-president
+treasurer
+secretary
+sr-trustee-rep
+jr-trustee-rep
+executive-senator
+dir-of-communications
+dir-of-programming
+dir-of-pr

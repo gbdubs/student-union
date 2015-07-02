@@ -1,0 +1,17 @@
+				<div class="profile-box" id="[IDENTIFIER]">
+                    <div class="profile-image">
+                        <img src="data/img/[IDENTIFIER].png">
+                    </div>
+                    <div class="profile-name bg-brandeis-blue-0 txt-brandeis-white">
+                        <h5><b>[NAME]</b> - <span class="light">[TITLE]</span></h5>
+                    </div>
+                    <div class="profile-email bg-brandeis-blue-2 txt-brandeis-white">
+                        <h6 class="light">[EMAIL]</h6>
+                    </div>
+                    <p class="profile-job-description">
+                        [JOB_DESCRIPTION]
+                    </p>
+                    <p class="personal-statement">
+                        [PERSONAL_STATEMENT]
+                    </p>
+                </div>

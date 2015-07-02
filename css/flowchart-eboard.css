@@ -1,0 +1,511 @@
+.flowchart {
+    position: relative;
+    text-align: center;
+    transition: all .5s;
+    width: 100%;
+    height: 560px;
+    overflow-x: auto;
+}
+.flowchart * {
+    -webkit-transition: all 2s;
+}
+.flowchart .btn {
+    position: absolute;
+    height: auto;
+    margin: 0px !important;
+    padding: 1px 20px !important;
+}
+.flowchart .btn.arrow-left:before {
+    height: Calc(100% + 20px);
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 35px solid transparent;
+    border-right: 40px solid #099EF4;
+    border-bottom: 35px solid transparent;
+    position: absolute;
+    top: Calc(50% - 35px);
+    left: -40px;
+}
+.flowchart .btn.arrow-right:after {
+    height: Calc(100% + 20px);
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 35px solid transparent;
+    border-left: 40px solid #099EF4;
+    border-bottom: 35px solid transparent;
+    position: absolute;
+    top: Calc(50% - 35px);
+    right: -40px;
+}
+.flowchart .btn h5 {
+    font-size: 25px !important;
+    margin: 10px 0 !important;
+    padding: 0px !important;
+    text-transform: none;
+}
+.flowchart .btn.has-children:after {
+    height: 90px;
+    width: 4px;
+    bottom: -90px;
+    right: Calc(50% - 2px);
+}
+.flowchart .btn.has-children:before {
+    height: 4px;
+    width: 609px;
+    bottom: -94px;
+    right: Calc(50% - 307px);
+}
+.flowchart .btn.right-add-on:after {
+    height: 4px;
+    width: 100px;
+    top: Calc(50% - 2px);
+    right: -100px;
+}
+.flowchart .btn.top-add-on:after {
+    height: 18px;
+    width: 4px;
+    top: -18px;
+    right: Calc(50% - 2px);
+}
+.flowchart .btn.top-add-on.tall:after {
+    height: 88px;
+    top: -88px;
+    left: Calc(25% - 2px);
+}
+.flowchart .btn.top-add-on.short:after {
+    height: 14px;
+    top: -14px;
+    right: Calc(50% - 2px);
+}
+#fc-a-board:after,
+#fc-executive-senator:before,
+#fc-vice-president:before,
+.flowchart #fc-second-level,
+.flowchart #fc-second-level:before,
+.flowchart #fc-second-level:after,
+.flowchart .btn.has-children:before,
+.flowchart .btn.has-children:after,
+.flowchart .btn.right-add-on:after,
+.flowchart .btn.top-add-on:after {
+    content: "";
+    background: white;
+    position: absolute;
+    cursor: default;
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+.flowchart .key {
+    position: absolute;
+    top: 450px;
+    display: table-row;
+    margin-left: Calc(50% - 365px);
+}
+.flowchart .key div {
+    width: 25%;
+    margin: 0;
+    display: table-cell;
+    padding: 10px;
+    color: white;
+    border-radius: 2px;
+}
+.flowchart #fc-president {
+    top: 0;
+    left: Calc(50% - 90px);
+}
+.flowchart #fc-chief-of-staff {
+    top: 70px;
+    left: Calc(50% - 308px)
+}
+.flowchart #fc-treasurer {
+    top: 160px;
+    left: Calc(50% - 391px);
+}
+.flowchart #fc-senate {
+    top: 230px;
+    right: Calc(50% - 405px);
+}
+.flowchart #fc-secretary {
+    top: 160px;
+    left: Calc(50% - 145px);
+}
+.flowchart #fc-vice-president {
+    top: 160px;
+    right: Calc(50% - 391px);
+}
+#fc-vice-president:before {
+    width: 4px;
+    height: 21px;
+    right: 50px;
+    bottom: -21px;
+}
+.flowchart #fc-a-board {
+    top: 230px;
+    left: Calc(50% - 400px);
+}
+.flowchart #fc-a-board:after {
+    height: 21px;
+    width: 4px;
+    top: -21px;
+    right: 45px;
+}
+.flowchart #fc-sr-board-rep {
+    top: 230px;
+    right: Calc(50% - 30px);
+}
+.flowchart #fc-second-level {
+    height: 4px;
+    width: 610px;
+    top: 300px;
+    right: Calc(50% - 300px);
+}
+.flowchart #fc-second-level:before {
+    height: 158px;
+    width: 4px;
+    top: -158px;
+    right: 250px;
+}
+.flowchart #fc-executive-senator {
+    top: 230px;
+    right: Calc(50% - 265px);
+}
+.flowchart #fc-executive-senator:before {
+    width: 21px;
+    height: 4px;
+    right: -21px;
+    top: Calc(50% - 2px);
+}
+.flowchart #fc-dir-of-communications {
+    top: 322px;
+    right: Calc(50% + 190px);
+}
+.flowchart #fc-dir-of-programming {
+    top: 322px;
+    right: Calc(50% - 100px);
+}
+.flowchart #fc-dir-of-pr {
+    top: 322px;
+    right: Calc(50% - 382px);
+}
+.flowchart .hidden-smaller {
+    display: block;
+}
+.flowchart .hidden-larger {
+    display: none;
+}
+@media only screen and (max-width: 900px) {
+    .flowchart .btn {
+        margin: 0px !important;
+        padding: 1px 15px !important;
+    }
+    .flowchart .btn h5 {
+        font-size: 22px !important;
+        margin: 10px 0 !important;
+        padding: 0px !important;
+        text-transform: none;
+    }
+    .flowchart #fc-chief-of-staff {
+        top: 70px;
+        left: Calc(50% - 240px)
+    }
+    .flowchart .btn.right-add-on:after {
+        height: 4px;
+        width: 47px;
+        top: Calc(50% - 2px);
+        right: -47px;
+    }
+    .flowchart #fc-treasurer {
+        top: 160px;
+        left: Calc(50% - 265px);
+    }
+    .flowchart #fc-senate {
+        top: 230px;
+        right: Calc(50% - 321px);
+    }
+    .flowchart #fc-secretary {
+        top: 160px;
+        left: Calc(50% - 100px);
+    }
+    .flowchart #fc-vice-president {
+        top: 160px;
+        right: Calc(50% - 275px);
+    }
+    .flowchart #fc-vice-president:before {
+        width: 4px;
+        height: 23px;
+        right: 20px;
+        bottom: -23px;
+    }
+    .flowchart #fc-a-board {
+        top: 230px;
+        left: Calc(50% - 275px);
+    }
+    .flowchart #fc-a-board:after {
+        height: 23px;
+        width: 4px;
+        top: -23px;
+        right: 35px;
+    }
+    .flowchart #fc-sr-board-rep {
+        top: 230px;
+        right: Calc(50% - 30px);
+    }
+    .flowchart #fc-second-level {
+        height: 4px;
+        width: 369px;
+        top: 300px;
+        right: Calc(50% - 195px);
+    }
+    .flowchart #fc-second-level:before {
+        height: 158px;
+        width: 4px;
+        top: -158px;
+        right: 145px;
+    }
+    .flowchart #fc-executive-senator {
+        top: 230px;
+        right: Calc(50% - 200px);
+    }
+    .flowchart #fc-executive-senator:after {
+        left: 8px;
+    }
+    .flowchart #fc-executive-senator:before {
+        width: 21px;
+        height: 4px;
+        right: -21px;
+        top: Calc(50% - 2px);
+    }
+    .flowchart #fc-dir-of-communications {
+        top: 322px;
+        right: Calc(50% + 70px);
+    }
+    .flowchart #fc-dir-of-programming {
+        top: 322px;
+        right: Calc(50% - 110px);
+    }
+    .flowchart #fc-dir-of-pr {
+        top: 322px;
+        right: Calc(50% - 265px);
+    }
+    .flowchart .btn.top-add-on.tall:after {
+        height: 88px;
+        top: -88px;
+        left: 13px;
+    }
+    .flowchart .btn.has-children:after {
+        height: 91px;
+        bottom: -91px;
+    }
+    .flowchart .btn.has-children:before {
+        height: 4px;
+        width: 393px;
+        bottom: -95px;
+        right: Calc(50% - 217px);
+    }
+    .flowchart .hidden-larger {
+        display: block;
+    }
+    .flowchart .hidden-smaller {
+        display: none;
+    }
+    .flowchart .key {
+        margin: 0 Calc(50% - 345px);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .flowchart{
+        height: 1000px;
+        width: 360px;
+        margin: 0 Calc(50% - 180px);
+    }
+    .flowchart .btn {
+        margin: 0px !important;
+        padding: 1px 15px !important;
+    }
+    .flowchart .btn h5 {
+        font-size: 20px !important;
+        margin: 10px 0 !important;
+        padding: 0px !important;
+        text-transform: none;
+    }
+    .flowchart .btn.top-add-on.tall:after,
+    .flowchart .btn.top-add-on:after {
+        height: 20px;
+        width: Calc(50% + 21px);
+        top: -20px;
+        right: Calc(50% - 2p);
+        background: transparent;
+        border-top: 4px solid white;
+        border-right: 4px solid white;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    }
+    .flowchart #fc-president {
+        top: 0px;
+        left: 20px;
+    }
+    .flowchart #fc-president:before {
+        display: none;
+    }
+    .flowchart #fc-president:after {
+        height: 707px;
+        bottom: -707px;
+        right: auto;
+        left: auto;
+        left: 30px
+    }
+    .flowchart #fc-chief-of-staff {
+        top: 70px;
+        left: 140px;
+    }
+    .flowchart #fc-chief-of-staff:after {
+        width: 86px;
+        left: -86px;
+    }
+   
+    .flowchart #fc-treasurer {
+        top: 320px;
+        left: 70px;
+    }
+    .flowchart #fc-senate {
+        top: 220px;
+        left: 210px;
+        right: auto;
+    }
+    .flowchart #fc-secretary {
+        top: 400px;
+        left: 70px;
+    }
+    .flowchart #fc-vice-president {
+        top: 160px;
+        left: 70px;
+        right: auto;
+        
+    }
+    .flowchart #fc-vice-president:before {
+        width: 4px;
+        height: 13px;
+        right: 10px;
+        bottom: -13px;
+    }
+    .flowchart #fc-a-board {
+        top: 320px;
+        left: 200px;
+    }
+    .flowchart #fc-a-board:before{
+        border-left: 40px solid #099EF4;
+        right: -40px;
+        left: auto;
+        border-right: none;
+    }
+    
+    .flowchart #fc-a-board:after{
+        left: -11px;
+        width: 11px !important;
+        height: 4px !important;
+        top: Calc(50% - 2px) !important;
+    }
+    
+    .flowchart #fc-a-board:after {
+        height: 23px;
+        width: 4px;
+        top: -23px;
+        right: 35px;
+    }
+    .flowchart #fc-sr-board-rep {
+        top: 480px;
+        left: 70px;
+        right: auto;
+    }
+    .flowchart #fc-sr-board-rep:after{
+        height: 20px;
+        top: -20px;
+        left: -19px
+    }
+    
+    .flowchart #fc-second-level {
+        display: none;
+    }
+    .flowchart #fc-second-level:before {
+        display: none;
+    }
+    .flowchart #fc-executive-senator {
+        top: 240px;
+        height: auto;
+        right: auto;
+        left: 70px;
+    }
+    .flowchart #fc-executive-senator:after {
+        height: 20px;
+        top: -20px;
+        left: -16px
+    }
+    
+    .flowchart #fc-executive-senator:before {
+        width: 16px;
+        height: 4px;
+        right: -16px;
+        top: 10px;
+    }
+    .flowchart #fc-dir-of-communications {
+        top: 560px;
+        left: 70px;
+        right: auto;
+    }
+    .flowchart #fc-dir-of-programming {
+        top: 665px;
+        left: 70px;
+        right: auto;
+    }
+    .flowchart #fc-dir-of-pr {
+        top: 770px;
+        left: 70px;
+        right: auto;
+    }
+    .flowchart .btn.top-add-on.tall:after {
+        height: 88px;
+        top: -88px;
+        left: 13px;
+    }
+    .flowchart .btn.has-children:after {
+        height: 91px;
+        bottom: -91px;
+    }
+    .flowchart .btn.has-children:before {
+        height: 4px;
+        width: 393px;
+        bottom: -95px;
+        right: Calc(50% - 217px);
+    }
+    .flowchart .hidden-larger {
+        display: block;
+    }
+    .flowchart .hidden-smaller {
+        display: none;
+    }
+    .flowchart .key {
+        width: 100%;
+        margin: 0;
+        top: 900px
+    }
+}

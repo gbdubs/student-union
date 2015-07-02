@@ -1,0 +1,305 @@
+.flowchart {
+    position: relative;
+    text-align: center;
+    transition: all .5s;
+    width: 900px;
+    height: 1200px;
+    overflow-x: auto;
+    margin: 0 Calc(50% - 450px);
+}
+
+.flowchart * {
+    -webkit-transition: all 2s;
+}
+
+.flowchart .btn {
+    display: inline-block;
+    height: auto;
+    margin: 0px !important;
+    padding: 1px 20px !important;
+}
+
+.flowchart #fc-vice-president:before {
+    height: 6px;
+    width: 6px;
+    background: white;
+    content: "";
+    position: absolute;
+}
+
+.flowchart .btn.arrow-left:before {
+    height: Calc(100% + 20px);
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 35px solid transparent;
+    border-right: 40px solid #099EF4;
+    border-bottom: 35px solid transparent;
+    position: absolute;
+    top: Calc(50% - 35px);
+    left: -40px;
+}
+
+.flowchart .btn h5 {
+    font-size: 25px;
+    margin: 10px 0 !important;
+    padding: 0px !important;
+    text-transform: none;
+}
+
+.flowchart #fc-vice-president {
+    position: absolute;
+    top: 0px;
+    right: 490px
+}
+
+.flowchart #fc-vice-president:before {
+    width: 94px;
+    right: -94px;
+    top: Calc(50% - 2px);
+}
+
+.flowchart #fc-executive-senator {
+    position: absolute;
+    top: 0px;
+    left: 490px
+}
+
+.flowchart #fc-senators {
+    top: 70px;
+    display: inline-block;
+    padding: 5px;
+    z-index: 10;
+    overflow: visible
+}
+
+.flowchart #fc-senators:before {
+    content: "";
+    width: 8px;
+    height: 52px;
+    top: -52px;
+    left: Calc(50% - 4px);
+    ;
+    background: white;
+    position: absolute;
+}
+
+.flowchart .senator-row {
+    display: table-row;
+}
+
+.flowchart .senator-cell {
+    display: table-cell;
+    padding: 5px;
+}
+
+.flowchart .senator-cell div,
+.flowchart .senator-cell .btn {
+    width: 100%;
+}
+
+.flowchart #fc-committees {
+    width: 500px;
+    text-align: center;
+    position: absolute;
+    left: Calc(50% - 250px);
+}
+
+#fc-committees #fc-committee-table {
+    padding: 5px;
+    width: 400px;
+    margin: 0 Calc(50% - 200px);
+}
+
+#fc-key-for-large {
+    position: absolute;
+    top: 1070px;
+    margin: 0 Calc(50% - 350px);
+    width: 700px;
+}
+
+#fc-key-for-small {
+    display: none;
+}
+
+#fc-key-for-large .btn {
+    height: 100%;
+}
+
+.flowchart #fc-key-for-large h5 {
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 740px) {
+    .flowchart {
+        position: relative;
+        text-align: center;
+        transition: all .5s;
+        width: 100%;
+        margin: 0;
+        min-width: 300px;
+        height: 1250px;
+    }
+
+    .flowchart * {
+        -webkit-transition: all 2s;
+    }
+
+    .flowchart .btn {
+        display: inline-block;
+        height: auto;
+        margin: 0px !important;
+        padding: 1px 20px !important;
+    }
+
+    .flowchart #fc-vice-president:before {
+        height: 6px;
+        width: 6px;
+        background: white;
+        content: "";
+        position: absolute;
+    }
+
+    .flowchart .btn h5 {
+        font-size: 18px;
+        font-weight: lighter;
+        margin: 10px 0 !important;
+        padding: 0px !important;
+        text-transform: none;
+    }
+
+    .flowchart #fc-vice-president {
+        position: absolute;
+        top: 0px;
+        right: Calc(50% + 25px);
+        left: auto;
+    }
+
+    .flowchart #fc-vice-president:before {
+        width: 94px;
+        right: -94px;
+        top: 21px;
+    }
+
+    .flowchart #fc-executive-senator {
+        position: absolute;
+        top: 0px;
+        left: Calc(50% + 25px);
+    }
+
+    .flowchart #fc-senators {
+        top: 70px;
+        display: inline-block;
+        padding: 5px;
+        z-index: 10;
+        overflow: visible
+    }
+
+    .flowchart #fc-senators:before {
+        content: "";
+        width: 8px;
+        height: 52px;
+        top: -52px;
+        left: Calc(50% - 4px);
+        ;
+    background: white;
+        position: absolute;
+    }
+
+    .flowchart .senator-row {
+        display: table-row;
+    }
+
+    .flowchart .senator-cell {
+        display: table-cell;
+        padding: 5px;
+    }
+
+    .flowchart .senator-cell div,
+    .flowchart .senator-cell .btn {
+        width: 100%;
+        height: 100%;
+    }
+
+    .flowchart #fc-committees {
+        width: Calc(100% - 20px);
+        max-width: 480px;
+        text-align: center;
+        position: absolute;
+        left: Calc(50% - 240px);
+    }
+
+    #fc-committees h5 {
+        font-size: 18px;
+    }
+
+    #fc-committees #fc-committee-table {
+        width: 250px;
+        margin: 0 Calc(50% - 125px);
+    }
+
+    #fc-key-for-large {
+        display: none;
+    }
+
+    #fc-key-for-small {
+        display: inline-block;
+        position: relative;
+        top: 500px;
+    }
+
+    #fc-key-for-small .btn {
+        height: 100%;
+    }
+
+    .flowchart #fc-key-for-small h5 {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .flowchart {
+        height: 1350px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .flowchart {
+        height: 1380px;
+    }
+
+    .flowchart #fc-committees {
+        left: 10px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .flowchart {
+        height: 1430px;
+    }
+}
+
+@media only screen and (max-width: 494px) {
+    .flowchart {
+        height: 1480px;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .flowchart {
+        height: 1545px;
+    }
+}
+
+@media only screen and (max-width: 410px) {
+    .flowchart {
+        height: 1620px;
+    }
+}
+
+@media only screen and (max-width: 340px) {
+    .flowchart {
+        height: 1760px;
+        left: -5px;
+    }
+}
