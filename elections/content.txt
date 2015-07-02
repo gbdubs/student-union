@@ -1,0 +1,29 @@
+<div class="content card bg-brandeis-white">
+	<div class="container">
+		<br>
+		<h1>Elections</h1>
+		<br>
+		<h4 class="light">The next round of elections will be held on <b>September 3rd, 2015</b>, starting and ending at midnight.</h4>
+	
+		<br>
+	
+		<h5 class="light">The positions that will be up for election are: Class of 2019 Senator (2), Charles River Senator, Mods Senator, Ridgewood Senator, Ziv Senator, Village Senator, East Senator, Castle Senator, Rosenthal Senator, Massell Senator, North Senator, Racial Minority Senator</h5>
+	
+		<br>
+	
+		<h5 class="light">This ballot will not contain referenda.</h5>
+	
+		<br>
+		<br>
+		<br>
+	
+		<h4>Information for Prospective Candidates</h4>
+		<p>Any candidate who wishes to be on the ballot MUST (with NO exceptions) attend the elections meeting beforehand.  Though almost no exceptions will ever be granted to this rule, if an unavoidable circumstances arises, the candidate must email the Secretary at least 48 hours before the elections meeting. The elections meeting for this round of elections will be on <b>August 27th, 2015, at 7PM in the Union Office</b>. Please read over the rules that all candidates must abide by before coming to the meeting so that you do not accidentally violate a rule before knowing about it. The list of general election rules can be found <a href="/elections/election_rules.pdf">here</a>.</p>
+	
+		<br>
+		<h4>Information for Non-Candidates</h4>
+		<p>Ballots are distributed by email. All students who are eligible to vote in a given election will be have a ballot sent to their email shortly after midnight on the morning of the election. The person with the most votes wins.  If "abstain" wins, then the election will be held again at a later point in time until a candidate who is not "abstain" wins. Write in candidates may win elections. Complete rules that all candidates must abide by can be found on <a href="/elections/election_rules.pdf">this</a> document. Please report any abuses of these rules to the Secretary.
+		</p>
+		<br>
+	</div>
+</div>

@@ -1,0 +1,18 @@
+<div class="content card bg-brandeis-white">
+	<div class="container">
+		<br>
+		<h2>Romper Room</h2>
+		<h5 class="light">The romper room is a resources for <b>clubs</b>, and has everything they could ever need: iMacs, printing, and office supplies.</h5>
+		<br>
+		<p>
+			The Secretary is the person in charge of the Romper Room.  They alone degermine who gains access to it. The current policy is that two leaders of every club are allowed access to the room. If you need access and do not yet have it, please <a href="/contact/">email the secretary</a> and tell them you would like access <i>in addition to the club that you are asking for access as a part of.</i>
+		</p>
+		<p>
+			Additionally, if supplies are running low (particularly toner and paper for the printer) please <a href="/contact/">email the secretary</a> with your concern as soon as possible.
+		</p>
+		<p>
+			Finally, please treat the room with respect.  This is a space that is used by hundreds of people every week, and we all need to do our best to keep it clean, organized, and prevent theft. Don't let people you don't know in, keep the door shut, and only use the supplies for club related activities.
+		</p>
+		<br>
+	</div>
+</div>

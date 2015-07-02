@@ -1,0 +1,25 @@
+<div class="content bg-brandeis-white card">
+	<div class="container">
+	
+		<h4>Senate Meeting Minutes</h4>
+	
+		<h5 class="light"><a href="data/Senate/October 9th copy.pdf">October 9th copy.pdf</a></h5>
+		<h5 class="light"><a href="data/Senate/September 3rd copy.txt">September 3rd copy.txt</a></h5>
+
+		<br>
+
+		<h4>E-board Meeting Minutes</h4>
+	
+		<h5 class="light"><a href="data/E-board/October 9th.pdf">October 9th.pdf</a></h5>
+		<h5 class="light"><a href="data/E-board/September 3rd.txt">September 3rd.txt</a></h5>
+
+		<br>
+
+		<h4>Other Meeting Minutes</h4>
+	
+		<h5 class="light"><a href="data/Other/October 9th copy 2.pdf">October 9th copy 2.pdf</a></h5>
+		<h5 class="light"><a href="data/Other/September 3rd copy 2.txt">September 3rd copy 2.txt</a></h5>
+
+		<br>
+	</div>
+</div>

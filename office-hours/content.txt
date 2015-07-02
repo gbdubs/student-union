@@ -1,0 +1,353 @@
+ 
+        <div class="card content">
+            <div class="container">
+                <br><h1>Office Hours</h1>
+                <h4 class="thin">Access to your representatives. Every day of the Week.</h4>
+                <br class="hideable">
+                <p>Below are the office hours for each representative of the Student Union, arranged by day of the week.  All office hours are held in the Student Union Office, on the third floor of the Shapiro Campus Center.  If you can't get in to the office or it doesn't appear as if the representative is there, please send them and <a href="mailto:nmacklin@brandeis.edu">Nyah Macklin</a>, so that they can find another time to meet with you. Note that these refer to days that school is in session only, and will follow schedule modifications (i.e. Brandeis Thursdays will follow the Thursday schedule).</p>
+            </div>
+            
+            <div class="container office-hours-table">
+                <div class="row">
+                    <div class="col s12 m12 bg-brandeis-blue-grey txt-brandeis-white"><h5>Who will be there?</h5></div>
+                    <div class="col s6 m3 bg-brandeis-blue-0 txt-brandeis-white"><h5>E-Board</h5></div>
+                    <div class="col s6 m3 bg-brandeis-blue-2 txt-brandeis-white"><h5>Senate</h5></div>
+                    <div class="col s6 m3 bg-brandeis-blue-1 txt-brandeis-white"><h5>A-Board</h5></div>
+                    <div class="col s6 m3 bg-brandeis-grey txt-brandeis-black"><h5>Judiciary</h5></div>
+                </div>
+                <div class="day">
+                    <h5>Monday</h5>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">8AM - 9AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">9AM - 10AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">10AM - 11AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">11AM - 12PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">12PM - 1PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">1PM - 2PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">2PM - 3PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">3AM - 4PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-grey txt-brandeis-black">
+                        <div class="col s4 m3 l2">4PM - 5PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">5AM - 6PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">6AM - 7PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                </div>
+                <div class="day">
+                    <h5>Tuesday</h5>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">8AM - 9AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">9AM - 10AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">10AM - 11AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">11AM - 12PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">12PM - 1PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">1PM - 2PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">2PM - 3PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">3AM - 4PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-grey txt-brandeis-black">
+                        <div class="col s4 m3 l2">4PM - 5PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">5AM - 6PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">6AM - 7PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                </div>
+                <div class="day">
+                    <h5>Wednesday</h5>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">8AM - 9AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">9AM - 10AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">10AM - 11AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">11AM - 12PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">12PM - 1PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">1PM - 2PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">2PM - 3PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">3AM - 4PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-grey txt-brandeis-black">
+                        <div class="col s4 m3 l2">4PM - 5PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">5AM - 6PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">6AM - 7PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                </div>
+                <div class="day">
+                    <h5>Thursday</h5>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">8AM - 9AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">9AM - 10AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">10AM - 11AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">11AM - 12PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">12PM - 1PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">1PM - 2PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">2PM - 3PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">3AM - 4PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-grey txt-brandeis-black">
+                        <div class="col s4 m3 l2">4PM - 5PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">5AM - 6PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">6AM - 7PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                </div>
+                <div class="day">
+                    <h5>Friday</h5>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">8AM - 9AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">9AM - 10AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">10AM - 11AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">11AM - 12PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">12PM - 1PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">1PM - 2PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">2PM - 3PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">3AM - 4PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-grey txt-brandeis-black">
+                        <div class="col s4 m3 l2">4PM - 5PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">5AM - 6PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">6AM - 7PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                </div>
+                <div class="day">
+                    <h5>Saturday</h5>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">8AM - 9AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">9AM - 10AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">10AM - 11AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">11AM - 12PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">12PM - 1PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">1PM - 2PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">2PM - 3PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">3AM - 4PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-grey txt-brandeis-black">
+                        <div class="col s4 m3 l2">4PM - 5PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">5AM - 6PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">6AM - 7PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                </div>
+                <div class="day">
+                    <h5>Sunday</h5>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">8AM - 9AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">9AM - 10AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">10AM - 11AM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">11AM - 12PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">12PM - 1PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-2 txt-brandeis-white">
+                        <div class="col s4 m3 l2">1PM - 2PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">2PM - 3PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">3AM - 4PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-grey txt-brandeis-black">
+                        <div class="col s4 m3 l2">4PM - 5PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-0 txt-brandeis-white">
+                        <div class="col s4 m3 l2">5AM - 6PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                    <div class="row bg-brandeis-blue-1 txt-brandeis-white">
+                        <div class="col s4 m3 l2">6AM - 7PM</div>
+                        <div class="col s8 m9 l10">Grady Ward</div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <br>
+            <h4 class="thin container">Remember that if you are not able to make office hours with a specific person, you are always welcome to email them.</h4>
+            <br>
+            
+        </div>

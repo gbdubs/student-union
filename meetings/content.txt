@@ -1,0 +1,16 @@
+<div class="content bg-brandeis-white card">
+	<div class="container">
+		<br>
+		<h1>Upcoming + Regular Meetings</h1>
+		<br>
+		<h4>The Senate : 7PM, Sundays, Everyone Welcome</h4>
+
+		<br>
+		<h4>E-Board : 5PM, Sundays, Closed Meeting</h4>
+
+		<br>
+		<h4>A-Board : During Marathons, Saturday-Sunday, 9AM-6PM</h4>
+
+		<br>
+	</div>
+</div>

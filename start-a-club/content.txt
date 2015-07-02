@@ -1,0 +1,8 @@
+<div class="bg-brandeis-white card content">
+	<div class="container">
+		<br>
+		<h2>Club Support</h2>
+		<br>
+		<br>
+	</div>
+</div>

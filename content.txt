@@ -1,0 +1,162 @@
+ 		<div class="content card bg-brandeis-white">
+            <div class="section no-pad-bot" id="index-banner">
+                <div class="container">
+                    <br><br>
+                    <h1 class="header center txt-brandeis-blue-1"><b>Your</b> Student Union</h1>
+                    <div class="row center">
+                        <h5 class="header col s12 light">We are here to serve you from orientation to graduation and beyond. How?</h5>
+                    </div>
+                    <div class="row center">
+                        <div class="row">
+                            <div class="col s12 m4">
+                                <div class="icon-block">
+                                    <h2 class="center txt-brandeis-blue-1"><i class="mdi-av-mic"></i></h2>
+                                    <h5 class="center">Advocacy</h5>
+                                    <p class="light">We are your link to change.  No matter your concern or idea, we have connections within the alumni, administration, faculty, and trustees to address your concerns and ideas. The Executive-Board has strong relationships with all of the Brandeis constituencies, and makes sure that the student voice is heard.</p>
+                                </div>
+                            </div>
+                            <div class="col s12 m4">
+                                <div class="icon-block">
+                                    <h2 class="center txt-brandeis-blue-1"><i class="mdi-editor-attach-money"></i></h2>
+                                    <h5 class="center">Allocations</h5>
+                                    <p class="light">The Student Union fills our campus with life through the financial support of our vibrant clubs and associations. The Allocations Board makes all funding decisions for our student run organizations, trying to maximize the total impact of each organization on campus life.</p>
+                                </div>
+                            </div>
+                            <div class="col s12 m4">
+                                <div class="icon-block">
+                                    <h2 class="center txt-brandeis-blue-1"><i class="mdi-social-location-city"></i></h2>
+                                    <h5 class="center">Community</h5>
+                                    <p class="light">We take pride in our community, and in its stewardship. The Student Union works to promote a safe, respectful, and intentional environement for the student body, creates and reviews student focused laws and initiatives, and builds community within and around our campus.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container online-resources">
+                    <h2 class="header center">How can we help you?</h2>
+                    <div class="row tableify">
+                        <div class="col m6 s12">
+                            <a class="btn bg-brandeis-blue-0" href="/office-hours">
+                                <h5>Office Hours</h5>
+                                <p>Every Student Union member spends part of their week in the Student Union office to answer any questions you might have.  This is a complete list of those hours.</p>
+                            </a>
+                        </div>
+                        <div class="col m6 s12">
+                            <a class="btn bg-brandeis-blue-grey" href="/documents">
+                                <h5>Constitution + Bylaws</h5>
+                                <p>The Union's governing documents are publicly availible and constantly evolving. Check out the most recent versions on this page.</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row tableify">
+                        <div class="col m6 s12">
+                            <a class="btn bg-brandeis-blue-2" href="/romper-room">
+                                <h5>Romper Room</h5>
+                                <p>The Romper Room is a central location with office supplies and iMacs for club leaders to create and distribute materials for club purposes.</p>
+                            </a>
+                        </div>
+                        <div class="col m6 s12">
+                            <a class="btn bg-brandeis-blue-1" href="/start-a-club">
+                                <h5>Starting a Club</h5>
+                                <p>Everything you need to know about turning your group of like-minded people into club funded by the Student Union.</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br class="hideable">
+            <br class="hideable">
+        </div>
+        <div class="content no-card row personality-boxes">
+            <div class="col s12 title">
+                <h2>Who are we?</h2>
+                <h5>The Union serves many different roles on campus.  Our four branches house student leaders from across campus, each tasked with different work.  Here you can learn about their various functions and contact your representatives. </h5>
+            </div>
+            <div class="row tableify">
+            
+            
+            <div class="section e-board-summary col m6 s12">
+                <div class="branch-summary card bg-brandeis-white txt-brandeis-black">
+                    <h4>Executive Board</h4>
+                    <p>The Executive Board is comprised of elected and appointed officials who focus on long term student concerns.  The board is chaired by the President, and is overseen by the Chief of Staff.</p>
+                    <a class="btn bg-brandeis-blue-1" href="/e-board">About</a>
+                    <a class="btn bg-brandeis-blue-1" href="/e-board/members">Members</a>
+                </div>
+            </div>
+            <div class="section senate-summary col m6 s12">
+                <div class="branch-summary card bg-brandeis-white txt-brandeis-black">
+                    <h4>Senate</h4>
+                    <p>The Senate is the direct voice of students, representing every class-year, quad, and underserved constiuencies on campus.  Meet your senators to advance your ideas about how Brandeis can improve.</p>
+                    <a class="btn bg-brandeis-blue-2" href="/senate">About</a>
+                    <a class="btn bg-brandeis-blue-2" href="/senate/members">Members</a>
+                </div>
+            </div>
+            </div>
+            
+            <div class="row tableify">
+            <div class="section a-board-summary col m6 s12">
+                <div class="branch-summary card bg-brandeis-white txt-brandeis-black">
+                    <h4>Allocations Board</h4>
+                    <p>The A-Board, led by the Treasurer, makes impartial and thoughtful decisions on how to divide up our limited student funds between the many clubs and activities that request them.</p>
+                    <a class="btn bg-brandeis-blue-grey" href="/a-board">About</a>
+                    <a class="btn bg-brandeis-blue-grey" href="/a-board/members">Members</a>
+                </div>
+            </div>
+            <div class="section judiciary-summary col m6 s12">
+                <div class="branch-summary card bg-brandeis-white txt-brandeis-black">
+                    <h4>Judiciary</h4>
+                    <p>The Judiciary settles disagreements that arise between different branches of the Union, and adjudicates some other student grievances that are not diciplinary in nature.</p>
+                    <a class="btn bg-brandeis-blue-0" href="/judiciary">About</a>
+                    <a class="btn bg-brandeis-blue-0" href="/judiciary/members">Members</a>
+                </div>
+            </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br class="hideable">
+        <br class="hideable">
+        <br class="hideable">
+        <div class="content card bg-brandeis-white what-are-we-doing">
+            <div class="container">
+                <br>
+                <br class="hideable">
+                <h2 class="header center">What are we doing?</h2>
+                <div class="row center">
+                    <h5 class="header col s12 light">We are here to serve you as openly as possible. Stay up to date on what we are working on, and feel free to become a part of the process.</h5>
+                </div>
+                <br>
+                <br class="hideable">
+                <div class="row tableify">
+                    <div class="col m6 s12">
+                        <a class="btn bg-brandeis-blue-0" href="/news">
+                            <h5>Union News</h5>
+                            <p>A up-to-date roundup of all things going on in the Union, maintained by the Communications department.</p>
+                        </a>
+                    </div>
+                    <div class="col m6 s12">
+                        <a class="btn bg-brandeis-blue-1" href="/initiatives">
+                            <h5>Initiatives</h5>
+                            <p>A dashboard detailing what is going on with each of our long term initiatives.</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="row tableify">
+                    <div class="col m6 s12">
+                        <a class="btn bg-brandeis-blue-2" href="/meetings">
+                            <h5>Meeting Schedule</h5>
+                            <p>A schedule detailing the times and locations that the committees of the Union meet, many of which are open to the Student Body.</p>
+                        </a>
+                    </div>
+                    <div class="col m6 s12">
+                        <a class="btn bg-brandeis-blue-grey" href="/meetings/minutes">
+                            <h5>Minutes</h5>
+                            <p>All publicly availible meeting minutes. Minutes are usually posted within a few days of a meeting.</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <br class="hideable">
+            <br class="hideable">
+        </div>

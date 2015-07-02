@@ -1,0 +1,7 @@
+ <div class="content bg-brandeis-white card">
+	<div class="container">
+		
+		[MINUTES]
+		
+	</div>
+</div>

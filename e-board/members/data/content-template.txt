@@ -1,0 +1,13 @@
+ <div class="content card bg-brandeis-white">
+	<div class="container">
+		<br>
+		<h2>E-Board Members</h2>
+		<Br>
+		<h5 class="light">Executive Board members are the Student Union's face to the many Brandeis Constituiencies.</h5>
+		<br>
+		
+		[PROFILE_BOXES]    
+			
+		<br>
+	</div>
+</div>

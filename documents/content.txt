@@ -1,0 +1,13 @@
+<div class="content card bg-brandeis-white">
+            <div class="container">
+                <br>
+                <h2>The Constitution</h2>
+                <h5 class="light">The constitution is the founding document for the Union, and has evolved as Brandeis has.  You can find the most up-to-date version of the constitution <a href="constitution.pdf">here.</a></h5>
+                <br>
+                <h2>Bylaws</h2>
+                <h5 class="light">The Bylaws, written and ammended by the senate, define the operation of that body, and more of the intricaies of the day-to-day union operation.  You can read the most current version of the Bylaws <a href="bylaws.pdf">here.</a></h5>
+                <br>
+                <br>
+            </div>
+        </div>
+        
