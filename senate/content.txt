@@ -12,7 +12,7 @@
 	<br>
 	<h2>Organization</h2>
 	<br>
-	<div class="flowchart">
+	<div class="flowchart-senate">
 		<a id="fc-vice-president" class="btn bg-brandeis-blue-0" href="members/#vice-president">
 			<h5>Vice President</h5>
 		</a>
