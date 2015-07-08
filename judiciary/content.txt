@@ -1,0 +1,64 @@
+<div class="card bg-brandeis-white content">
+	<br>    
+	<h2>Judiciary</h2>
+	<br>
+	<div class="container">
+		<p>
+			The Judiciary is a small group of students responsible for settling disputes within the Union
+			and non-disciplinary student/club disputes. It is a simple board, with one chairperson and four members,
+			all of whom are elected by the student body.
+		</p>
+		<br class="hideable">
+	</div>
+</div>
+<br>
+<br>
+<h2>Organization</h2>
+<br>
+<br>
+<div class="flowchart-judiciary">
+	<a class="btn bg-brandeis-blue-0" href="members/#chairperson">
+		<h5 class="light">Judiciary Chairperson</h5>
+	</a>
+	<a class="btn bg-brandeis-blue-1" href="members/#member-1">
+		<h5 class="light">Judiciary Member</h5>
+	</a>
+	<a class="btn bg-brandeis-blue-1" href="members/#member-2">
+		<h5 class="light">Judiciary Member</h5>
+	</a>
+	<a class="btn bg-brandeis-blue-1" href="members/#member-3">
+		<h5 class="light">Judiciary Member</h5>
+	</a>
+	<a class="btn bg-brandeis-blue-1" href="members/#member-4">
+		<h5 class="light">Judiciary Member</h5>
+	</a>
+	<div class="key">
+		<div class="bg-brandeis-blue-1">Student Body Election</div>
+		<div class="bg-brandeis-blue-0">Chosen from within the Judiciary</div>
+	</div>
+</div>
+<br>
+<br>
+<div class="content card bg-brandeis-white">
+	<div class="container">
+		<p>
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+		</p>
+		<p>
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+		</p>
+		<p>
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+		</p>
+	</div>
+	<br>
+</div>

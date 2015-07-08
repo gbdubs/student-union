@@ -1,0 +1,16 @@
+ <div class="content card bg-brandeis-white">
+	<div class="container">
+		<br>
+		<h2>Judiciary Members</h2>
+		<Br>
+		<h5 class="light">
+			The Judiciary is composed of a wide range of students, whose mutual goal is to ensure that the constitution of the
+			Student Union is followed appropriately.
+		</h5>
+		<br>
+		
+		[PROFILE_BOXES]    
+			
+		<br>
+	</div>
+</div>
