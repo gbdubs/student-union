@@ -1,0 +1,16 @@
+<div class="content card bg-brandeis-white">
+	<div class="container">
+		<br>
+		<h2>Initiatives</h2>
+		<h5 class="light">
+			Your Student Union is dedicated to making the work that we do as accessible and
+			transparent as possible. Here is what we are working on right now, and who you
+			can contact if you want to get involved with the initiative.
+		</h5>
+		<br>
+	
+		[INITIATIVES]
+		
+		<br>
+	</div>
+</div>

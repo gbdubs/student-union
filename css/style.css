@@ -586,6 +586,28 @@ footer.footer-canopy{
 }
 
 /*************************
+* Initiaitves            *
+*************************/
+
+.initiative h3 {
+    margin: 0 0 10px 0;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    padding: 10px;
+}
+
+.initiative.card {
+    overflow: visible;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+}
+
+.initiative h5 {
+    padding: 6px;
+    margin: 0;
+}
+
+/*************************
 * MISC                   *
 *************************/
 

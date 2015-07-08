@@ -1,0 +1,6 @@
+<div class="initiative card">
+	<h3 class="bg-brandeis-blue-1 txt-brandeis-white">[TITLE]</h3>
+	<h5 class="txt-brandeis-blue-0">Leaders: [POINT]</h5>
+	<h5 class="txt-brandeis-blue-0">Team: [INVOLVED]</h5>
+	<p>[DESCRIPTION]</p>
+</div>
