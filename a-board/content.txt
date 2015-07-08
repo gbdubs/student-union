@@ -15,7 +15,7 @@
 <h2>Organization</h2>
 <br>
 <br>
-<div class="flowchart-aboard">
+<div class="flowchart-aboard card">
 	<a class="btn bg-brandeis-blue-1" href="members/#treasurer">
 		<h5 class="light">Treasurer</h5>
 	</a>

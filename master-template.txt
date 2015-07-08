@@ -8,7 +8,9 @@
         <link href="[DOTS]css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
         <link href="[DOTS]css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
         <link href="[DOTS]css/flowchart-senate.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-        <link href="[DOTS]css/flowchart-eboard.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href="[DOTS]css/flowchart-eboard.css" type="text/css" rel="stylesheet" media="screen,projection"/>      
+        <link href="[DOTS]css/flowchart-judiciary.css" type="text/css" rel="stylesheet" media="screen,projection"/>    
+        <link href="[DOTS]css/flowchart-aboard.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     </head>
     <body class="bg-brandeis-grey">
         <ul id="about-dropdown" class="dropdown-content txt-brandeis-blue-0">

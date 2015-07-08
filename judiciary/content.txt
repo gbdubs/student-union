@@ -16,7 +16,7 @@
 <h2>Organization</h2>
 <br>
 <br>
-<div class="flowchart-judiciary">
+<div class="flowchart-judiciary card">
 	<a class="btn bg-brandeis-blue-0" href="members/#chairperson">
 		<h5 class="light">Judiciary Chairperson</h5>
 	</a>
