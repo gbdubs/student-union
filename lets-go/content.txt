@@ -1,0 +1,19 @@
+<div class="content card bg-brandeis-white">
+	<div class="container">
+		<br>
+		<h2>In Progress</h2>
+		<h5 class="light">Sorry, this page is currently under construction.</h5>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>		
+	</div>
+</div>
