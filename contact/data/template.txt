@@ -79,58 +79,21 @@
 			<div class="col m6 s12">
 				<h4>E-Board Contacts</h4>
 				<ul>
-					<li>Student Union President, <b>Nyah Macklin</b><br> (nmacklin@brandeis.edu)</li>
-<li>Chief of Staff, <b>Justin Carlisle</b><br> (jcrlsl@brandeis.edu)</li>
-<li>Vice President, <b>Dennis Hermida</b><br> (dhermida@brandeis.edu)</li>
-<li>Treasurer, <b>Nicole Lenchner</b><br> (nicolejl@brandeis.edu)</li>
-<li>Secretary, <b>Shuying Liu</b><br> (lsy93@brandeis.edu)</li>
-<li>Senior Representative to the Board of Trustees, <b>Grady Ward</b><br> (gward@brandeis.edu)</li>
-<li>Junior Representative to the Board of Trustees, <b>Emily Conrad</b><br> (econrad@brandeis.edu)</li>
-<li>Executive Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Director of Communications, <b>Nayah</b><br> (union@brandeis.edu)</li>
-<li>Director of Programming, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Director of Public Relations, <b>VACANT</b><br> (union@brandeis.edu)</li>
-
+					[EBOARD]
 				</ul>
 				<h4>A-Board Contacts</h4>
 				<ul>
-					<ABOARD IDENTIFIERS NOT FOUND>
+					[ABOARD]
 				</ul>
 				<h4>Judiciary Contacts</h4>
 				<ul>
-					<JUDICIARY IDENTIFIERS NOT FOUND>
+					[JUDICIARY]
 				</ul>
 			</div>
 			<div class="col m6 s12">
 				<h4>Senate Contacts</h4>
 				<ul>
-					<li>Vice President, <b>Dennis Hermida</b><br> (dhermida@brandeis.edu)</li>
-<li>Executive Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Senator At Large, <b>Lorenzo Finamore</b><br> (lorenzo8@brandeis.edu)</li>
-<li>Senator At Large, <b>Luxi (Lucy) Wen</b><br> (lucerne@brandeis.edu)</li>
-<li>Racial Minority Senator, <b>Bethlehem Seifu Belaineh</b><br> (bseifu@brandeis.edu)</li>
-<li>Class of 2016 Senator, <b>Ellen Parker</b><br> (parkere@brandeis.edu)</li>
-<li>Class of 2016 Senator, <b>Jesse Ruth</b><br> (jesserut@brandeis.edu)</li>
-<li>Class of 2017 Senator, <b>David Herbstritt</b><br> (dherb17@brandeis.edu)</li>
-<li>Class of 2017 Senator, <b>Matt Smetana</b><br> (msmetana@brandeis.edu)</li>
-<li>Class of 2018 Senator, <b>Skye Golann</b><br> (sgolann@brandeis.edu)</li>
-<li>Class of 2018 Senator, <b>Paul Sindberg</b><br> (psindber@brandeis.edu)</li>
-<li>Class of 2019 Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Class of 2019 Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Midyear Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Transitional Year Program Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Off Campus Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Mods Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Ridgewood Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Charles River (Grad) Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Ziv Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Village Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>East Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Castle Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Rosie Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>North Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-<li>Massell Senator, <b>VACANT</b><br> (union@brandeis.edu)</li>
-
+					[SENATE]
 				</ul>
 			</div>
 		</div>
@@ -171,5 +134,4 @@
         <script src="../js/init.js"></script>
     </body>
 </html>
-
 

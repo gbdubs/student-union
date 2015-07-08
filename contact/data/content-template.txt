@@ -1,0 +1,36 @@
+ <div class="content card bg-brandeis-white">
+	<div class="container">
+		<h1>Contact Us</h1>
+		<h5 class="thin">Never hesitate to contact us, it is what we are here for!</h5>
+	
+		<h4>General Contact Information</h4>
+		<p><b>Student Union Email:</b> union@brandeis.edu</p>
+		<p><b>Communications Director:</b> communications@brandeis.edu</p>
+		<p><b>Mail:</b> MB XXXX Brandeis University, P.O. Box XXXXX, Waltham MA</p>
+		<p><b>Office:</b> Suite 315, Shapiro Campus Center (SCC), Brandeis University</p>
+	
+		
+		<div class="row contacts">
+			<div class="col m6 s12">
+				<h4>E-Board Contacts</h4>
+				<ul>
+					[EBOARD]
+				</ul>
+				<h4>A-Board Contacts</h4>
+				<ul>
+					[ABOARD]
+				</ul>
+				<h4>Judiciary Contacts</h4>
+				<ul>
+					[JUDICIARY]
+				</ul>
+			</div>
+			<div class="col m6 s12">
+				<h4>Senate Contacts</h4>
+				<ul>
+					[SENATE]
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>

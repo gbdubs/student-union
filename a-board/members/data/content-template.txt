@@ -1,0 +1,16 @@
+ <div class="content card bg-brandeis-white">
+	<div class="container">
+		<br>
+		<h2>A-Board Members</h2>
+		<Br>
+		<h5 class="light">
+			Allocations Board members come from all across the campus, and bring their varied experience to the
+			allocations process.
+		</h5>
+		<br>
+		
+		[PROFILE_BOXES]    
+			
+		<br>
+	</div>
+</div>
