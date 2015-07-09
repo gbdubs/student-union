@@ -1,21 +1,21 @@
 <div class="card bg-brandeis-white content">
-	<br>    
-	<h2>Judiciary</h2>
 	<br>
+	<br class="hideable">    
+	<h2>Judiciary</h2>
 	<div class="container">
 		<p>
 			The Judiciary is a small group of students responsible for settling disputes within the Union
 			and non-disciplinary student/club disputes. It is a simple board, with one chairperson and four members,
 			all of whom are elected by the student body.
 		</p>
-		<br class="hideable">
 	</div>
+	<br>
+	<br class="hideable">   
 </div>
 <br>
 <br>
+<br class="hideable">
 <h2>Organization</h2>
-<br>
-<br>
 <div class="flowchart-judiciary card">
 	<a class="btn bg-brandeis-blue-0" href="members/#chairperson">
 		<h5 class="light">Judiciary Chairperson</h5>
@@ -39,7 +39,9 @@
 </div>
 <br>
 <br>
+<br class="hideable">
 <div class="content card bg-brandeis-white">
+	<br>
 	<div class="container">
 		<p>
 			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
@@ -60,5 +62,6 @@
 			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
 		</p>
 	</div>
+	<br>
 	<br>
 </div>
