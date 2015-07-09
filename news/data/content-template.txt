@@ -2,7 +2,6 @@
 	<div class="container">
 		<br>
 		<h2>News</h2>
-		<Br>
 		<h5 class="light">Your representatives are hard at work. Here is what they have been up to!</h5>
 		<br>
 		

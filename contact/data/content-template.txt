@@ -1,8 +1,9 @@
  <div class="content card bg-brandeis-white">
 	<div class="container">
+		<br>
 		<h1>Contact Us</h1>
 		<h5 class="thin">Never hesitate to contact us, it is what we are here for!</h5>
-	
+		<br>
 		<h4>General Contact Information</h4>
 		<p><b>Student Union Email:</b> union@brandeis.edu</p>
 		<p><b>Communications Director:</b> communications@brandeis.edu</p>
@@ -16,10 +17,12 @@
 				<ul>
 					[EBOARD]
 				</ul>
+				<br>
 				<h4>A-Board Contacts</h4>
 				<ul>
 					[ABOARD]
 				</ul>
+				<br>
 				<h4>Judiciary Contacts</h4>
 				<ul>
 					[JUDICIARY]

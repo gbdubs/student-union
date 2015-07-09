@@ -1,18 +1,20 @@
  		<div class="card bg-brandeis-white content">
-            <br>    
+            <br> 
+            <br class="hideable">   
             <h2>Executive Board <span class="hideable">(E-Board)</span></h2>
-            <br>
             <div class="container">
                 <p>
                     The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future.  
                 </p>
-                <br class="hideable">
+               
             </div>
+            <br>
+            <br class="hideable">
         </div>
-        <br>
-        <br>
+      	<br>
+    	<br class="hideable">
+    	<br class="hideable">
         <h2>Organization</h2>
-        <br>
         <br>
         <div class="flowchart-eboard">
             <a id="fc-president" class="btn bg-brandeis-blue-1 fc-president has-children" href="members/#president">
@@ -61,9 +63,9 @@
                 <div class="bg-brandeis-blue-grey">Connected Body</div>
             </div>
         </div>
-        <br>
-        <br>
+    	<br class="hideable">
         <div class="content card bg-brandeis-white">
+            <br class="hideable">
             <div class="container">
                 <p>
                     More about the eboard here!
@@ -82,4 +84,5 @@
                     More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!More about the eboard here!
                 </p>
             </div>
+            <br class="hideable">
         </div>
