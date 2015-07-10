@@ -3,12 +3,13 @@
 		<br>
 		<br class="hideable">
 		<h2>The Senate</h2>
-		<br class="hideable">
 		<p>The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies.</p>
+		<br>
 		<br class="hideable">
 	</div>
 </div>
 <div class="content">
+	<br>
 	<br>
 	<h2>Organization</h2>
 	<br>
@@ -234,10 +235,13 @@
 			</div>
 		</div>
 	</div>
+	<br>
 </div>
+
 <div class="content card bg-brandeis-white">
 	<div class="container">
 		<br class="hideable">
+		<p>The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies.</p>
 		<p>The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies.</p>
 		<br class="hideable">
 	</div>
