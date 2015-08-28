@@ -1,10 +1,4 @@
 /* Custom Stylesheet */
-/**
- * Use this file to override Materialize files so you can update
- * the core Materialize files in the future
- *
- * Made By MaterializeCSS.com
- */
 
 body{
     text-align: center;
@@ -26,17 +20,17 @@ div.container{
 
 .bg-brandeis-blue-1{
     /*background: #1156ae !important; */
-    background: #3169C4 !important;
+    background: #0063D3 !important;
 }
 
 .bg-brandeis-blue-2{
    /* background:  #008ED6 !important; */
-    background: #1C8ADD !important;
+    background: #3F85D3 !important;
 }
 
 .bg-brandeis-blue-grey{
     /* background: #2F82AD !important; */
-    background: #099EF4 !important;
+    background: #2E619B !important;
 }
 
 .bg-brandeis-grey{
@@ -57,11 +51,11 @@ div.container{
 }
 
 .txt-brandeis-blue-1{
-    color: #1156ae !important;
+    color: #0063D3 !important;
 }
 
 .txt-brandeis-blue-2{
-    color: #008ED6 !important;
+    color: #3F85D3 !important;
 }
 
 .txt-brandeis-grey{
@@ -552,6 +546,7 @@ footer.footer-canopy{
     -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
     -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    background: #3169C4;
 }
 
 .profile-image img{
