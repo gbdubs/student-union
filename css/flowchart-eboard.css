@@ -21,7 +21,7 @@
     width: 0;
     height: 0;
     border-top: 35px solid transparent;
-    border-right: 40px solid #099EF4;
+    border-right: 40px solid #2E619B;
     border-bottom: 35px solid transparent;
     position: absolute;
     top: Calc(50% - 35px);
@@ -33,7 +33,7 @@
     width: 0;
     height: 0;
     border-top: 35px solid transparent;
-    border-left: 40px solid #099EF4;
+    border-left: 40px solid #2E619B;
     border-bottom: 35px solid transparent;
     position: absolute;
     top: Calc(50% - 35px);
