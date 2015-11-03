@@ -682,3 +682,7 @@ footer.footer-canopy{
 .contacts li{
     margin-bottom: 10px;
 }
+
+ol{
+    text-align: left;
+}
