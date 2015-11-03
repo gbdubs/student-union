@@ -1,18 +1,23 @@
 <div class="content card bg-brandeis-white">
 	<div class="container">
 		<br>
-		<h2>In Progress</h2>
-		<h5 class="light">Sorry, this page is currently under construction.</h5>
+		<h2>Lets Work Together</h2>
+		<h5 class="light">Contact Your Representatives to Make Your Ideas a Reality</h5>
 		<br>
 		<br>
 		<br>
+		<h2>Run For Office</h2>
+		<h5 class="light">The best way to get your voice heard is to be the Students' megaphone</h5>
 		<br>
 		<br>
 		<br>
+		<h2>Attend Town Halls</h2>
+		<h5 class="light">Student Union Town Halls with Administrators give you access to all levels of administrators</h5>
 		<br>
 		<br>
 		<br>
-		<br>
+		<h2>Appointed Postions</h2>
+		<h5 class="light">The President has the discretion to modify their cabinet and appoint students to important University committees. Contact them today to find out how you can get involved in changing this school for the better!</h5>
 		<br>
 		<br>		
 	</div>
