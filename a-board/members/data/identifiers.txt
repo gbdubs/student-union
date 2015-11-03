@@ -1,5 +1,6 @@
-treasurer
 chairperson
+treasurer
+senate-rep
 racial-minority
 member-1
 member-2
