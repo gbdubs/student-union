@@ -56,9 +56,9 @@
 					</a>
 				</div>
 				<div class="col m6 s12">
-					<a class="btn bg-brandeis-blue-1" href="start-a-club">
-						<h5>Starting a Club</h5>
-						<p class="light">Everything you need to know about turning your group of like-minded people into club funded by the Student Union.</p>
+					<a class="btn bg-brandeis-blue-1" href="treasury">
+						<h5>Club Finances</h5>
+						<p class="light">Learn about the Treasury and how to access the funding that your clubs and organizations are allocated.</p>
 					</a>
 				</div>
 			</div>
