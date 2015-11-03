@@ -3,7 +3,7 @@
     text-align: center;
     transition: all .5s;
     width: 900px;
-    height: 1200px;
+    height: 1350px;
     overflow-x: auto;
     margin: 0 Calc(50% - 450px);
 }
@@ -113,7 +113,7 @@
 
 #fc-key-for-large {
     position: absolute;
-    top: 1070px;
+    top: 1200px;
     margin: 0 Calc(50% - 350px);
     width: 700px;
 }
@@ -138,7 +138,7 @@
         width: 100%;
         margin: 0;
         min-width: 300px;
-        height: 1250px;
+        height: 1300px;
     }
 
     .flowchart-senate * {
@@ -245,7 +245,7 @@
     #fc-key-for-small {
         display: inline-block;
         position: relative;
-        top: 500px;
+        top: 560px;
     }
 
     #fc-key-for-small .btn {
@@ -299,7 +299,7 @@
 
 @media only screen and (max-width: 340px) {
     .flowchart-senate {
-        height: 1760px;
+        height: 1860px;
         left: -5px;
     }
 }

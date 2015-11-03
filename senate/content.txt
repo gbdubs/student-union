@@ -156,8 +156,22 @@
 				</div>
 				<div class="senator-row">
 					<div class="senator-cell">
+						<a class="btn bg-brandeis-blue-0" href="/senate/committees/support-and-outreach">
+							<h5>Support and Outreach</h5>
+						</a>
+					</div>
+				</div>
+				<div class="senator-row">
+					<div class="senator-cell">
+						<a class="btn bg-brandeis-blue-0" href="/senate/committees/sustainability">
+							<h5>Sustainability</h5>
+						</a>
+					</div>
+				</div>
+				<div class="senator-row">
+					<div class="senator-cell">
 						<a class="btn bg-brandeis-blue-0" href="/senate/committees/cowgi">
-							<h5>Campus Operations (COWGI)</h5>
+							<h5>Campus Operations (COW-G)</h5>
 						</a>
 					</div>
 				</div>
@@ -171,14 +185,14 @@
 				<div class="senator-row">
 					<div class="senator-cell">
 						<a class="btn bg-brandeis-blue-0" href="/senate/committees/diversity">
-							<h5>Diversity</h5>
+							<h5>S.J. and Diversity</h5>
 						</a>
 					</div>
 				</div>
 				<div class="senator-row">
 					<div class="senator-cell">
 						<a class="btn bg-brandeis-blue-0" href="/senate/committees/ways-and-means">
-							<h5>Ways and Means</h5>
+							<h5>Bylaws Committee</h5>
 						</a>
 					</div>
 				</div>
@@ -241,8 +255,22 @@
 <div class="content card bg-brandeis-white">
 	<div class="container">
 		<br class="hideable">
-		<p>The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies.</p>
-		<p>The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies.</p>
+		
+		<p>
+			The Undergraduate Student Union Senate is a deliberative body made up of many Senators representing various constituencies within the Brandeis Community. Senators represent classes, quads, the racial minority community, and even the entire undergraduate student body. 
+		</p>
+		<p>
+			The Senate is responsible for working and creating legislation through its various committees, and works on issues related to student outreach, the state of various facilities and their effects on the student body, recognizing and chartering clubs, and addressing problems of social justice, diversity, and sustainability on campus. Descriptions of each committee are located in Article VI of the Student Union Bylaws, and contact information for committee chairs is available online.
+		</p>
+		<ul>
+			<li>Services and Outreach Committee (Chair, Paul Sindberg)</li>
+			<li>Sustainability Committee (Chair, Matt Smetana)</li>
+			<li>Social Justice and Diversity Committee (Co-Chairs, Luxi Wen and Bethlehem Seifu)</li>
+			<li>Bylaws Committee (Chair, Max Whitmore)</li>
+			<li>Dining Committee (Chair, Skyler Golann)</li>
+			<li>COW-G Committee (Chair, Mitchell Beers)</li>
+			<li>Club Support Committee (Chair, Lorenzo Finamore)</li>
+		</ul>
 		<br class="hideable">
 	</div>
 </div>

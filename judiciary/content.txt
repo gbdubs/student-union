@@ -4,9 +4,7 @@
 	<h2>Judiciary</h2>
 	<div class="container">
 		<p>
-			The Judiciary is a small group of students responsible for settling disputes within the Union
-			and non-disciplinary student/club disputes. It is a simple board, with one chairperson and four members,
-			all of whom are elected by the student body.
+			The Student Union Judiciary is the judicial branch of the Student Union.  The Judiciary is made up of four Associate Justices, one Chief Justice, and one Clerk of the Court.  It exists to mediate conflicts involving the Union in any capacity.  This includes but is not limited to conflicts between: two clubs, a club and the Union, two Union members, or a Union member and the Union.  If a conflict should arise, a court will convene wherein the two parties will both be represented in argument.  Following both parties' arguments, the Judiciary will come to a majority decision on the matter.  This decision will be announced as a written explanation.  All decisions are final and binding.
 		</p>
 	</div>
 	<br>
@@ -44,22 +42,7 @@
 	<br>
 	<div class="container">
 		<p>
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-		</p>
-		<p>
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-		</p>
-		<p>
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
-			More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here! More about the judiciary here!
+			More information about the Judiciary can be found <a href="https://docs.google.com/a/brandeis.edu/presentation/d/1F1w2GjAvbM7wE3cBg2oq0gfpFT_zkEveyfYzIdYA3Io/edit?usp=sharing">here</a>.
 		</p>
 	</div>
 	<br>
