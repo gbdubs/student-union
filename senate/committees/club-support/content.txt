@@ -1,7 +1,19 @@
 <div class="content card bg-brandeis-white">
 	<div class="section">
 		<div class="container">  
+			<br>
+			<br>
+			<br>
 			<h1 class="header center txt-brandeis-blue-1">Club Support Committee</h1>
+			<br>
+			<h3>This page is under construction.  Please contact the Committee Chair.</h3>
+ 			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
 		</div>
 	</div>
 </div>
