@@ -163,7 +163,7 @@
 				</div>
 				<div class="senator-row">
 					<div class="senator-cell">
-						<a class="btn bg-brandeis-blue-0" href="/senate/committees/sustainability">
+						<a class="btn bg-brandeis-blue-0" href="/senate/committees/sustainability/overview.pdf">
 							<h5>Sustainability</h5>
 						</a>
 					</div>
@@ -263,13 +263,14 @@
 			The Senate is responsible for working and creating legislation through its various committees, and works on issues related to student outreach, the state of various facilities and their effects on the student body, recognizing and chartering clubs, and addressing problems of social justice, diversity, and sustainability on campus. Descriptions of each committee are located in Article VI of the Student Union Bylaws, and contact information for committee chairs is available online.
 		</p>
 		<ul>
+			<li>Club Support Committee (Chair, Lorenzo Finamore)</li>
 			<li>Services and Outreach Committee (Chair, Paul Sindberg)</li>
 			<li>Sustainability Committee (Chair, Matt Smetana)</li>
+			<li>Campus OperationsCOW-G Committee (Chair, Mitchell Beers)</li>
+			<li>Dining Committee (Chair, Hannah Brown)</li>
 			<li>Social Justice and Diversity Committee (Co-Chairs, Luxi Wen and Bethlehem Seifu)</li>
 			<li>Bylaws Committee (Chair, Max Whitmore)</li>
-			<li>Dining Committee (Chair, Skyler Golann)</li>
-			<li>COW-G Committee (Chair, Mitchell Beers)</li>
-			<li>Club Support Committee (Chair, Lorenzo Finamore)</li>
+			
 		</ul>
 		<br class="hideable">
 	</div>

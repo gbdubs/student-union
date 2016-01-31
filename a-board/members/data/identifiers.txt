@@ -1,7 +1,11 @@
 chairperson
 treasurer
 senate-rep
-racial-minority
+racial-minority-1
+racial-minority-2
 member-1
 member-2
 member-3
+member-4
+member-5
+member-6

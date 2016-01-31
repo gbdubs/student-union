@@ -6,6 +6,6 @@ secretary
 sr-trustee-rep
 jr-trustee-rep
 executive-senator
-dir-of-communications
+media-manager
 dir-of-programming
 dir-of-pr
