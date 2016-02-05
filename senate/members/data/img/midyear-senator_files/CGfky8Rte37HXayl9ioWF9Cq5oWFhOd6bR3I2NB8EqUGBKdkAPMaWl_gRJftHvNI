@@ -1,0 +1,2 @@
+// API callback
+gbar.mkplcb16({"kind":"appsmarket#installedApps","domainName":"brandeis.edu"});
