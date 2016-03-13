@@ -7,5 +7,4 @@ sr-trustee-rep
 jr-trustee-rep
 executive-senator
 media-manager
-dir-of-programming
-dir-of-pr
+historian
