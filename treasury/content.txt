@@ -18,6 +18,9 @@
 			<li>Jennifer Wu Wednesday: 3:30 pm – 5:30 pm</li>
 			<li>Emily Levine Thursday: 11:00 am – 1:00 pm</li>
 			<li>Hannah Stewart Thursday: 2:00 pm – 4:00 pm</li>
+			<p>
+			Here are the <a href="OfficeHours.docx"> Treasury Office Hours </a>, should students choose to use them to have their questions answered! 
+			</p>
 		
 		</ul>
 		<br>

@@ -6,6 +6,9 @@
 		<p>
 			The Student Union Allocations Board is a group of elected individuals who manage of 1% of the Student Activities Fund or a budget of 1.7 million dollars, and allocate that money to clubs and organizations on campus to use for events that will better our community. The Board is in regular contact with student clubs and organizations during the Early Marathon, Regular Marathon, Appeals Marathon and Emergency Marathon in which those groups can propose ways in which their organization can use funding to better our community. These propositions often include a pitch, and an itemized budget for a particular event many months prior to that event taking place. Those guidelines can be found in the Student Union Constitution and here.
 		</p>
+		<p>
+		The Allocation Board members are happy to meet with students during their <a href="ABoardOfficeHours.pdf"> office hours </a>, to answer any questions and take care of any concerns they may have! 
+		</p>
 	</div>
 	<br class="hideable">
 	<br>
